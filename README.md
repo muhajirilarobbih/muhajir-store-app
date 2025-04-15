@@ -74,7 +74,13 @@ com.example.muhajirstoreapp/
 
 
 ## Image APP
-![Ikon Aplikasi MuhajirStoreApp]((assets/splasScreen.png))
+![Ikon Aplikasi MuhajirStoreApp]((asset/splasScreen.png))
+![Ikon Aplikasi MuhajirStoreApp]((asset/login.png))
+![Ikon Aplikasi MuhajirStoreApp]((asset/product.png))
+![Ikon Aplikasi MuhajirStoreApp]((asset/profile.png))
+![Ikon Aplikasi MuhajirStoreApp]((asset/detailProduct.png))
+![Ikon Aplikasi MuhajirStoreApp]((asset/cart.png))
+![Ikon Aplikasi MuhajirStoreApp]((asset/cartPreview.png))
 
 
 ## Cara Menjalankan Aplikasi
