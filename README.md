@@ -74,7 +74,7 @@ com.example.muhajirstoreapp/
 
 
 ## Image APP
-![Ikon Aplikasi MuhajirStoreApp]((https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/splasScreen.png))
+![Ikon Aplikasi MuhajirStoreApp](https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/splasScreen.png)
 ![Ikon Aplikasi MuhajirStoreApp]((https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/login.png))
 ![Ikon Aplikasi MuhajirStoreApp]((https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/product.png))
 ![Ikon Aplikasi MuhajirStoreApp]((https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/profile.png))
