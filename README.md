@@ -72,6 +72,11 @@ com.example.muhajirstoreapp/
 └── MainActivity.kt         # Entry point aplikasi
 ```
 
+
+## Image APP
+![Ikon Aplikasi MuhajirStoreApp]((assets/splasScreen.png))
+
+
 ## Cara Menjalankan Aplikasi
 
 ### Prasyarat
