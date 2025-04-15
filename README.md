@@ -74,13 +74,13 @@ com.example.muhajirstoreapp/
 
 
 ## Image APP
-![Ikon Aplikasi MuhajirStoreApp](https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/splasScreen.png)
-![Ikon Aplikasi MuhajirStoreApp]((https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/login.png))
-![Ikon Aplikasi MuhajirStoreApp]((https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/product.png))
-![Ikon Aplikasi MuhajirStoreApp]((https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/profile.png))
-![Ikon Aplikasi MuhajirStoreApp]((https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/detailProduct.png))
-![Ikon Aplikasi MuhajirStoreApp]((https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/cart.png))
-![Ikon Aplikasi MuhajirStoreApp]((https://github.com/muhajirilarobbih/muhajir-store-app/blob/main/asset/cartPreview.png))
+![Ikon Aplikasi MuhajirStoreApp](asset/splasScreen.png)
+![Ikon Aplikasi MuhajirStoreApp](asset/login.png)
+![Ikon Aplikasi MuhajirStoreApp](asset/product.png)
+![Ikon Aplikasi MuhajirStoreApp](asset/profile.png)
+![Ikon Aplikasi MuhajirStoreApp](asset/detailProduct.png)
+![Ikon Aplikasi MuhajirStoreApp](asset/cart.png)
+![Ikon Aplikasi MuhajirStoreApp](asset/cartPreview.png)
 
 
 ## Cara Menjalankan Aplikasi
