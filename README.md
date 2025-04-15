@@ -203,7 +203,8 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya melalui email: [email@example.com](mailto:email@example.com).
+Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya melalui email: [muhajirilarobbih@gmail.com](mailto:muhajirilarobbih@gmail.com).
+atau no WA : 082120377243
 
 ---
 
