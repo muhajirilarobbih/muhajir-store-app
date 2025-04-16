@@ -216,7 +216,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya melalui email: [muhajirilarobbih@gmail.com](mailto:muhajirilarobbih@gmail.com).
 atau no WA : 082120377243
-
----
-
-Itulah file README yang mencakup semua kriteria yang Anda berikan. File ini memberikan gambaran lengkap tentang proyek, fitur, tech stack, cara menjalankan aplikasi, dan informasi tambahan seperti desain UI/UX dan handling kasus positif/negatif. Jika Anda ingin menambahkan detail lebih lanjut atau mengubah formatnya, beri tahu saya!
